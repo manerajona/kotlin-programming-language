@@ -1,4 +1,4 @@
-package com.manerajona._01_sintax
+package com.manerajona._02_datatypes
 
 fun main(args: Array<String>) {
 
